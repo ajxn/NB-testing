@@ -8,7 +8,6 @@ package javaapplication;
 import java.util.Scanner;
 
 /**
- *
  * @author Anders Jackson
  */
 public class JavaApplication {
@@ -23,5 +22,4 @@ public class JavaApplication {
         System.out.format("Result read was: %s%n", test);
         System.exit(0);
     }
-    
 }
